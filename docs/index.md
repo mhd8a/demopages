@@ -3,10 +3,9 @@ layout: default
 ---
 
 # Contents
-> 1. [Home](source/Home.md)
-> 2. [Files List](./source/Files-List.md)
-> 3. [Publication](./source/Publication.md)
-> 4. [Publish-a-File](./source/Publish-a-File.md)
-> 5. [Synchronization](./source/Synchronization.md)
+> 1. [Home](_layouts/Home.md)
+> 2. [Files List](_layouts/Files-List.md)
+> 3. [Publication](_layouts/Publication.md)
+> 4. [Publish-a-File](_layouts/Publish-a-File.md)
+> 5. [Synchronization](_layouts/Synchronization.md)
 
-{% include_relative /docs/_includes/search-google.html %}
