@@ -1,4 +1,4 @@
-# Files
+<!--# Files
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -24,3 +24,4 @@ You can export the current file by clicking **Export to disk** in the menu. You 
 
 
 ![devops_task1](https://github.com/mhd8a/demopages/assets/139964315/fce98121-4a35-4c95-9997-f4b666f74909)
+-->
