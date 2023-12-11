@@ -28,7 +28,7 @@ url: "https://mhd8a.github.io" # the base hostname & protocol for your site, e.g
 # github_username:  jekyll
 
 # Build settings
-remote_theme: remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 # plugins:
 #   - jekyll-feed
 
