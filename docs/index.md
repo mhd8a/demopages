@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # Contents
 > 1. [Home](./_posts/home.md)
