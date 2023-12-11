@@ -9,4 +9,4 @@ layout: default
 > 4. [Publish-a-File](./source/Publish-a-File.md)
 > 5. [Synchronization](./source/Synchronization.md)
 
-{% include_relative ./_includes/search-google.html %}
+{% include_relative /docs/_includes/search-google.html %}
