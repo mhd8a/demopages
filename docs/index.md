@@ -1,5 +1,6 @@
-
+{% include search-google.html %}
 # Contents
+
 > 1. [Home](./_posts/home.md)
 > 2. [Files List](./Files-List.md)
 > 3. [Publication](./Publication.md)
