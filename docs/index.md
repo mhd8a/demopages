@@ -1,4 +1,4 @@
-# Welcome to BuildFarm Knowledge Base
+<!-- # Welcome to BuildFarm Knowledge Base -->
 ## Contents
 > 1. [Home](./Home.md)
 > 2. [Files List](./Files-List.md)
