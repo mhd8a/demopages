@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Contents
 > 1. [Home](source/Home.md)
 > 2. [Files List](./source/Files-List.md)
@@ -5,4 +9,4 @@
 > 4. [Publish-a-File](./source/Publish-a-File.md)
 > 5. [Synchronization](./source/Synchronization.md)
 
-{ % include search-google.html % }
+{% include_relative search-google.html %}
