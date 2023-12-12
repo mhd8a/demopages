@@ -1,4 +1,4 @@
-{% include search-google.html %}
+{% include search.html %}
 # Contents
 
 > 1. [Home](./posts/home.md)
