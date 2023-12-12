@@ -1,3 +1,10 @@
+---
+title: Publish a File
+category: Posts
+tag:
+  - tag3
+---
+
 ## Publish a File
 
 You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
