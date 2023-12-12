@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include search.html %}
+{% include searcheasy.html %}
 
 # Contents
 
