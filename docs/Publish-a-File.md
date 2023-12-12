@@ -1,8 +1,9 @@
 ---
 title: Publish a File
 category: Posts
-tag:
+tags:
   - tag3
+layout: default
 ---
 
 ## Publish a File
