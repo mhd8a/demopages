@@ -1,3 +1,11 @@
+---
+title: "Files-List"
+category: "List"
+tags:
+  - tag1
+  - tag2
+layout: default
+---
 # Files
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
