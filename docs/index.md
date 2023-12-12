@@ -1,4 +1,9 @@
+---
+layout: default
+---
+
 {% include search.html %}
+
 # Contents
 
 > 1. [Home](./posts/home.md)
