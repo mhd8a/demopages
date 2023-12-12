@@ -19,9 +19,6 @@ SimpleJekyllSearch({
 })
 </script>
 
-
-<!-- {% include searcheasy.html %} -->
-
 # Contents
 
 > 1. [Home](./posts/home.md)
