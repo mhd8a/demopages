@@ -1,6 +1,6 @@
 ---
-title: "Files-List"
-category: "List"
+title: Files-List
+category: List
 tags:
   - tag1
   - tag2
