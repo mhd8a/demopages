@@ -1,6 +1,6 @@
 ---
-title: "Publication"
-category: "Blog"
+title: Publication
+category: Blog
 tags:
   - tag1
   - tag3
