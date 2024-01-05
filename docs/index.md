@@ -3,7 +3,7 @@ layout: default
 ---
 <! --
 <head>
-  <!-- Include Simple Jekyll Search script -->
+   Include Simple Jekyll Search script
   <script src="https://unpkg.com/simple-jekyll-search@2.3.0/dist/js/simple-jekyll-search.min.js"></script>
 </head>
 -->
