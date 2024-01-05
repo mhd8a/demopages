@@ -4,11 +4,11 @@ layout: default
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="searching....">
-<ul id="results-container"></ul>
+<ul id="results-container"> </ul>
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="./js/search-script.js" type="text/javascript"></script>
+<script src="./js/search-script.js" type="text/javascript"> </script>
 
 <!-- Configuration -->
 <script>
