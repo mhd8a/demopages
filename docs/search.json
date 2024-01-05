@@ -1,7 +1,7 @@
 ---
 ---
 [
-{% for page in site.pages %}
+{% for page in site.posts %}
    {
      {% if page.title != nil %}
         "title"    : "{{ page.title | escape }}",
