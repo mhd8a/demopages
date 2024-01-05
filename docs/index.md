@@ -1,19 +1,11 @@
 ---
 layout: default
 ---
-<!-- Html Elements for Search 
+<!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="searching....">
 <ul id="results-container"> </ul>
 </div>
-
--->
-
-<form method="get" id="search-google" action="https://www.google.com/search" target="_blank">
-  <input type="hidden" name="sitesearch" value="" />
-  <input type="text" name="q" maxlength="255" value="" placeholder="Search" class="form-control" />
-  <button type="submit">Search</button>
-</form>
 
 <!-- Script pointing to search-script.js -->
 <script src="./js/search-script.js" type="text/javascript"> </script>
