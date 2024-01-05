@@ -1,7 +1,7 @@
 ---
 title: Files-List
-category: List
-tags: pages
+category: pages
+tags: 
   - tag1
   - tag2
 layout: default
