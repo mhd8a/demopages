@@ -15,7 +15,7 @@ layout: default
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  json: 'demopages/docs/search.json'
+  json: './search.json'
 })
 </script>
 
