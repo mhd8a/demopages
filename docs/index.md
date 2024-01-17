@@ -1,5 +1,6 @@
 ---
 layout: default
+background: '/images/download.png'
 ---
 <!-- Html Elements for Search -->
 <div id="search-container">
