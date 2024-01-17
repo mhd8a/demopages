@@ -1,9 +1,7 @@
 ---
-
 layout: default
 title: "Synchronization"
 description: "This page explains that how synchronization is happening "
-
 ---
 
 # Synchronization
