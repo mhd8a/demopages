@@ -1,6 +1,6 @@
 ---
 layout: default
-background: docs/assets/images/download.png
+background: ./assets/images/download.png
 ---
 <!-- Html Elements for Search -->
 <div id="search-container">
