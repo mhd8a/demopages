@@ -1,7 +1,7 @@
 ---
 title: Publish a File
 description: " it explains that how to publish a file here"
-category: Posts
+category: Pages
 tags:
   - tag3
 layout: default
