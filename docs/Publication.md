@@ -1,10 +1,7 @@
 ---
 title: Publication
 description: "it tells that how do we publish the webpage"
-category: Blog
-tags:
-  - tag1
-  - tag3
+category: Pages
 layout: default
 ---
 # Publication
