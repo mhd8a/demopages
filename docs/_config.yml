@@ -30,8 +30,8 @@ url: "https://mhd8a.github.io" # the base hostname & protocol for your site, e.g
 # Build settings
 remote_theme: pages-themes/merlot@v0.2.0
 # remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-simple-search
+# plugins:
+  # - jekyll-simple-search
 
 # Exclude from processing.
 # The following items will not be processed, by default.
