@@ -1,6 +1,6 @@
 ---
 layout: default
-background: './assets/images/download.png'
+background: "./assets/images/download.png"
 ---
 <!-- Html Elements for Search -->
 <div id="search-container">
@@ -9,7 +9,7 @@ background: './assets/images/download.png'
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="./js/search-script.js" type="text/javascript"> </script>
+<script src="/js/search-script.js" type="text/javascript"> </script>
 
 <!-- Configuration -->
 <script>
