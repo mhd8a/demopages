@@ -1,7 +1,6 @@
 ---
 title: "Files-List"
 description: "the page explains about files list"
-url: /Files-List/
 category: pages
 layout: default
 ---
