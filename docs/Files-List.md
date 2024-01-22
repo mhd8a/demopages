@@ -1,10 +1,7 @@
 ---
 title: "Files-List"
-description: " the page explains about files list"
+description: "the page explains about files list"
 category: pages
-tags: 
-  - tag1
-  - tag2
 layout: default
 ---
 # Files
