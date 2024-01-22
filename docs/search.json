@@ -1,13 +1,10 @@
 ---
-layout: none
 ---
-
-{% for page in site.pages %}
-   {
-     {% if page.title != nil %}
-        "title"    : "{{ page.title | escape }}",
-        "description" : "{{ page.description }}"
-     {% endif %}
-   } {% unless forloop.last %},{% endunless %}
+[
+  {% for page in site.pages %}
+    {
+      "title"    : "{{ page.title | escape }}",
+      "description" : "{{ page.description }}"
+    } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
