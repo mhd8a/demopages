@@ -28,5 +28,6 @@ You can delete the current file by clicking the **Remove** button in the file ex
 
 You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
 
+![File and Folder Overview](./assets/images/files.png)
 
 ![devops_task1](https://github.com/mhd8a/demopages/assets/139964315/fce98121-4a35-4c95-9997-f4b666f74909)
