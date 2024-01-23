@@ -1,8 +1,7 @@
 ---
 ---
-[
-  {% assign filtered_pages = site.pages | where_exp: "page", "page.title != ''" %}  
-    {% for page in filtered_pages %} 
+[ 
+    {% for page in site.pages %} 
        {
         "title"    : "{{ page.title | escape }}",
         "description" : "{{ page.description | strip_html | strip_newlines | escape }}",
