@@ -1,13 +1,17 @@
 ---
 ---
 [
-  {% for page in site.pages %}
-    {% if page.title != "" %}
+  {% assign filtered_pages = site.pages | where_exp: "page", "page.title != ''" %}  
+  {% for page in filtered_pages %}
+ 
+   {% comment %} {% for page in site.pages %} {% endcomment %}
+   {% comment %}  {% if page.title != "" %}  {% endcomment %}
+  
       {
         "title"    : "{{ page.title | escape }}",
         "description" : "{{ page.description | strip_html | strip_newlines | escape }}",
         "url" : "{{ site.baseurl }}{{ page.url }}"
-      } {% unless forloop.last %},{% endunless %}
-    {% endif %}
+      } {% unless forloop.last %},{% endunless %} 
+    {% comment %}{% endif %} {% endcomment %}
   {% endfor %}
 ]
