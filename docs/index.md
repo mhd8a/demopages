@@ -27,5 +27,5 @@ SimpleJekyllSearch({
 > 4. [Publish-a-File](/Publish-a-File.md)
 > 5. [Synchronization](/Synchronization.md)
 
-![Demo Image]({{ site.baseurl }}/docs/assets/images/download.png)
+![Demo Image]({{ site.baseurl }} /docs/assets/images/download.png)
 
