@@ -26,7 +26,7 @@ baseurl: "/demopages" # the subpath of your site, e.g. /blog
 url: "https://mhd8a.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
-include:['_pages']
+include: ['_pages']
 
 # Build settings
 remote_theme: pages-themes/merlot@v0.2.0
