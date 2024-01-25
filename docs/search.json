@@ -1,8 +1,7 @@
 ---
 ---
 [   
-    {% assign pages = site.pages | where: 'dir', './_pages' %}
-    {% for page in pages %} 
+       {% for page in site.pages %} 
        {
         "title"    : "{{ page.title | escape }}",
         "description" : "{{ page.description | strip_html | strip_newlines | escape }}",
