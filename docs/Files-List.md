@@ -4,7 +4,7 @@ description: "the page explains about files list"
 category: pages
 layout: testdefault
 ---
-![File and Folder Overview](/files.png)
+![File and Folder Overview](/assets/images/files.png)
 
 # Files
 
