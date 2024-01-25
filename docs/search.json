@@ -1,7 +1,7 @@
 ---
 ---
 [   
-    {% assign pages = site.pages | where: 'dir', '/_pages' %}
+    {% assign pages = site.pages | where: 'dir', './_pages' %}
     {% for page in pages %} 
        {
         "title"    : "{{ page.title | escape }}",
