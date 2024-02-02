@@ -2,7 +2,7 @@
 title: Publication
 description: "it tells that how do we publish the webpage"
 category: Pages
-layout: background
+layout: testdefault
 ---
 # Publication
 
