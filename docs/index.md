@@ -1,5 +1,5 @@
 ---
-layout: changewithnav
+layout: default
 ---
 
 <!-- Html Elements for Search -->
